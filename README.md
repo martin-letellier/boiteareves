@@ -1,2 +1,2 @@
-Python-Thermal-Printer
+Boite à rèves
 ======================
